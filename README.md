@@ -440,6 +440,11 @@ Healthcare-Analytics-Dashboard/
 7. Review the KPI cards, trend indicators, and analytical visualizations.
 
 ---
+# 📊 Healthcare Analytics Dashboard — Executive Overview
+
+<img width="1645" height="853" alt="image" src="https://github.com/user-attachments/assets/782d9f74-5445-4d1a-8912-1dae4e69f006" />
+
+
 
 # 📝 Documentation Scope
 

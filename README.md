@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics Dashboard | Power BI & DAX
+# 🏥 Healthcare Analytics Dashboard | Healthcare KPIs, DAX & Business Intelligence
 
 ### Executive Dashboard — Healthcare Performance Analysis
 
